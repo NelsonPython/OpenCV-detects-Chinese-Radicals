@@ -1,0 +1,1 @@
+# OpenCV-detects-Chinese-Radicals
